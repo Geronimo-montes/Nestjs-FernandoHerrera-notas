@@ -1,1 +1,24 @@
 videos
+videos/1. Introducción
+videos/2. Introducción a Next.js
+videos/3. TypeScript - Despliegues y Docker
+videos/4. Static Generated App - Pokemon Static
+videos/5. Pokemon Static - Continuación
+videos/6. Incremental Static Regeneration (ISR) e Incremental Static Generation (ISG)
+videos/7. OpenJira - Ejercicio con MaterialUI
+videos/8. OpenJira - Manejo de entradas
+videos/10. Server Side Props - Fin de OpenJira
+videos/11. Cookies - CookieMaster App
+videos/12. Teslo-shop - Tienda en Next.js
+videos/13. Teslo Store - Database y RestFul
+videos/14. SWR - React Hooks for Data Fetching
+videos/15. Carrito de compras
+videos/16. Autenticación personalizada mediante JWT - Json Web Token
+videos/17. Estilos condicionales Admin - Cliente
+videos/18. Next Auth
+videos/19. Manejo y creación de órdenes
+videos/20. Pagos con PayPal y tarjeta de crédito
+videos/21. Panel de administración
+videos/22. Mantenimiento de productos
+videos/23. Desplegar Teslo Shop en producción
+videos/24. Cierre del curso
